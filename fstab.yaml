@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/kmaschi/storefront-quickstart-km/
+    type: markup
+
+folders:
+  /products/: /products/default
